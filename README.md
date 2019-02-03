@@ -1,2 +1,6 @@
 # SecurityProject
-Secure personal diary implemented using JavaSecurity package for the course Information Security M @UniBo 2016/17
+
+Secure personal diary implemented using JavaSecurity package within the Information Security M class.
+
+@University of Bologna
+A.Y. 2016/17
